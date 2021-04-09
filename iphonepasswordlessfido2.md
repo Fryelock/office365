@@ -6,13 +6,8 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
-- [Feedback](#feedback)
-- [Contributors](#contributors)
-- [Build Process](#build-process)
-- [Backers](#backers-)
-- [Sponsors](#sponsors-)
-- [Acknowledgments](#acknowledgments)
+- [User Setup](#features)
+- [Admin Setup](#feedback)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
