@@ -9,13 +9,13 @@ https://fidoalliance.org/fido2/
 
 
 
-User Setup------------------
+<h1 align="center">User Setup</h1> <br>
 iPhone Setup:
 1. Must have Biometric login enabled - finger or faceprint
 2. Download Microsoft Authenticator Application: 
-<h1 align="center"> GitPoint </h1> <br>
+
 <p align="center">
-  <a href="https://gitpoint.co/">
+  <a href="https://www.microsoft.com/en-us/account/authenticator">
     <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/qrhLFb9.png" width="192">
   </a>
 </p>
