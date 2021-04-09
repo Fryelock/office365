@@ -6,8 +6,8 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [User Setup](#user setup)
-- [Admin Setup](#feedback)
+- [User Setup](#users)
+- [Admin Setup](#admin)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -30,7 +30,7 @@ https://fidoalliance.org/fido2/
 
 
 
-## User Setup
+## Users
 
 
 
