@@ -6,7 +6,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [User Setup](#features)
+- [User Setup](#usersetup)
 - [Admin Setup](#feedback)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -30,31 +30,45 @@ https://fidoalliance.org/fido2/
 
 
 
-<h1 align="center">User Setup</h1> <br>
-iPhone Setup:
-1. Must have Biometric login enabled - finger or faceprint
-2. Download Microsoft Authenticator Application: 
+## UserSetup
 
+<h1 align="center">User Setup</h1> <br>
+
+
+* Must have Biometric iPhone lock enabled - finger or faceprint
+* Download Microsoft Authenticator Application: 
 <p align="center">
   <a href="https://www.microsoft.com/en-us/account/authenticator">
-    <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/qrhLFb9.png" width="192">
+    <img alt="Authenticator" title="Authenticator" src="https://i.imgur.com/qrhLFb9.png" width="192">
   </a>
 </p>
 
 <p align="center">
-  GitHub in your pocket. Built with React Native.
+  Sign in without your passwords. 
 </p>
 
 <p align="center">
-  <a href="https://itunes.apple.com/us/app/gitpoint/id1251245162?mt=8">
+  <a href="https://apps.apple.com/app/id983156458?mt=8">
     <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
   </a>
 
-  <a href="https://play.google.com/store/apps/details?id=com.gitpoint">
+  <a href="https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en&gl=US">
     <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
   </a>
 </p> 
   https://apps.apple.com/us/app/microsoft-authenticator/id983156458
+
+* Close or lock issues
+* Apply labels and assignees
+* Review and merge pull requests
+* Create new issues
+* Star, watch and fork repositories
+* Control your unread and participating notifications
+* Easily search for any user or repository
+iPhone Setup:
+1. 
+2. 
+
 5. Configure "App Lock" under App Settings->Security
 
 
