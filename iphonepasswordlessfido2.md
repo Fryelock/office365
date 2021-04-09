@@ -30,9 +30,8 @@ https://fidoalliance.org/fido2/
 
 
 
-## UserSetup
+## User Setup
 
-<h1 align="center">User Setup</h1> <br>
 
 
 * Must have Biometric iPhone lock enabled - finger or faceprint
