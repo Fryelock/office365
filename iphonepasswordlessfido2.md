@@ -57,18 +57,8 @@ https://fidoalliance.org/fido2/
 </p> 
   https://apps.apple.com/us/app/microsoft-authenticator/id983156458
 
-* Close or lock issues
-* Apply labels and assignees
-* Review and merge pull requests
-* Create new issues
-* Star, watch and fork repositories
-* Control your unread and participating notifications
-* Easily search for any user or repository
-iPhone Setup:
-1. 
-2. 
-
-5. Configure "App Lock" under App Settings->Security
+* weewooweewoo
+* Configure "App Lock" under App Settings->Security
 
 
 
