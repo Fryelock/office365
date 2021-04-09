@@ -6,7 +6,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [User Setup](#usersetup)
+- [User Setup](#user setup)
 - [Admin Setup](#feedback)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
