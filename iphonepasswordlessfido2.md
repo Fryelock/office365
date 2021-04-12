@@ -58,7 +58,7 @@ https://fidoalliance.org/fido2/
 
 
 * Skip initial setup, get to App Dashboard:
-    <img alt="Authenticator Dashboard" title="Authenticator Dashboard" src="https://i.imgur.com/EiNq2Ue.jpg" width="192">
+    <br><img alt="Authenticator Dashboard" title="Authenticator Dashboard" src="https://i.imgur.com/EiNq2Ue.jpg" width="192">
 * Configure "App Lock" under App Settings->Security
 
 
