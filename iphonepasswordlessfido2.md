@@ -55,9 +55,10 @@ https://fidoalliance.org/fido2/
     <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
   </a>
 </p> 
-  https://apps.apple.com/us/app/microsoft-authenticator/id983156458
 
-* weewooweewoo
+
+* Skip initial setup, get to App Dashboard:
+    <img alt="Authenticator Dashboard" title="Authenticator Dashboard" src="https://i.imgur.com/EiNq2Ue.jpg" width="192">
 * Configure "App Lock" under App Settings->Security
 
 
