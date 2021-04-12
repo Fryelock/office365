@@ -61,7 +61,8 @@ https://fidoalliance.org/fido2/
     <br><img alt="Authenticator Dashboard" title="Authenticator Dashboard" src="https://i.imgur.com/EiNq2Ue.jpg" width="192">
 * Configure "App Lock" by clicking on the menu in the top left and toggling "App Lock"
 * <h3>Office 365</h3>
-* 
+* Login
+    <img alt="Office 365 Account" title="Office 365 Account" src="https://i.imgur.com/GdD3avL.png" width="192">
 
 
 
