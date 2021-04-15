@@ -63,6 +63,15 @@ https://fidoalliance.org/fido2/
 * <h3>Office 365</h3>
 * Login, click intitials in top right, then "View Account"
     <img alt="Office 365 Account" title="Office 365 Account" src="https://i.imgur.com/GdD3avL.png" width="400">
+* Security Info
+* Add Method
+* Authenticator App
+* Next
+* Next
+* (ON iphone) + in top right of app
+* Work or school
+* Scan QR code
+* 
 
 
 
